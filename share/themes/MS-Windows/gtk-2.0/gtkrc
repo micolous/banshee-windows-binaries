@@ -36,6 +36,8 @@ style "msw-default"
   GtkTreeView::allow-rules = 0
   GtkTreeView::expander-size = 12
 
+  GtkScale::slider-length = 9
+
   GtkExpander::expander-size = 12
 
   GtkScrolledWindow::scrollbar_spacing = 1
